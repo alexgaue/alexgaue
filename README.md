@@ -1,5 +1,4 @@
-### Hi there 👋, I'm Alex (he/him)
-
+### Hi there 👋, I'm Alex (he/him)  
  📍 currently @: University of Virginia  
- 🔭 interests: software development, security, machine learning  
+🔭 interests: software development, security, machine learning  
 🌱 currently learning: React, Tensorflow
