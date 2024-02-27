@@ -22,8 +22,8 @@ jobs:
       - uses: datarootsio/github-stats-card@v1
         with:
           username: alexgaue
-          #gh_token_stats: ${{ secrets.TOKEN_STATS }}
-          #gh_token_commits: ${{ secrets.TOKEN_STATS }}
+          gh_token_stats: ${{ secrets.TOKEN_STATS }}
+          gh_token_commits: ${{ secrets.TOKEN_STATS }}
           badge_path: assets/badge.svg
           header: "👋 hi i'm"
           about: "🌱 currently @: University of Virginia\n🔭 interests: software development, security, machine learning\n🏋️‍♀️ currently learning: React, Tensorflow"
