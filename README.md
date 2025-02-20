@@ -1,5 +1,3 @@
-### Hi 👋, I'm Alex
-
 <a href="https://github.com/alexgaue">
   <img align="center" src="./assets/badge.svg" />
 </a>
