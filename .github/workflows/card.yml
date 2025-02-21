@@ -21,7 +21,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: datarootsio/github-stats-card@v1
         with:
-          username: Alex
+          username: alexgaue
           gh_token_stats: ${{ secrets.TOKEN_STATS }}
           gh_token_commits: ${{ secrets.TOKEN_STATS }}
           badge_path: assets/badge.svg
