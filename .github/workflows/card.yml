@@ -25,7 +25,7 @@ jobs:
           gh_token_stats: ${{ secrets.TOKEN_STATS }}
           gh_token_commits: ${{ secrets.TOKEN_STATS }}
           badge_path: assets/badge.svg
-          header: "Hi 👋, I'm"
-          about: "🌱 currently @: University of Virginia\n🔭 interests: basketball, self-teaching French, exploring new music\n🏋️‍♀️ always learning: TypeScript, Tensorflow, AWS"
+          header: "👋 Hi, I'm"
+          about: "🌱 recently @: University of Virginia\n🏋️‍♀️ learning: TypeScript, Tensorflow, AWS\n🔭 interests: learning French, playing basketball, finding new music"
           theme: dark
           commit_message: Generate badge
